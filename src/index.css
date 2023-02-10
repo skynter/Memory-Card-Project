@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .headerScore {
+    @apply border-2 lg:p-3 p-1 border-stone-800 flex justify-center items-center rounded-lg text-white lg:text-3xl font-eagle hover:border-slate-400;
+  }
+  .scoreValue {
+    @apply px-2 text-red-400 lg:text-4xl font-bold font-roboto;
+  }
+}
