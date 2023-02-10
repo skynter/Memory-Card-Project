@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Memory-Card-Project/static/css/main.c7080a2d.css",
+    "main.js": "/Memory-Card-Project/static/js/main.1551d965.js",
+    "static/media/sasuke.png": "/Memory-Card-Project/static/media/sasuke.9c2fa07898f0d39de307.png",
+    "static/media/gaara.jpg": "/Memory-Card-Project/static/media/gaara.5cf608e3f4f181d418a1.jpg",
+    "static/media/obito.png": "/Memory-Card-Project/static/media/obito.792844fd042d72443636.png",
+    "static/media/tsunade.png": "/Memory-Card-Project/static/media/tsunade.70887e1b6ba80dd06891.png",
+    "static/media/oroshimaru.jpg": "/Memory-Card-Project/static/media/oroshimaru.0430cd8dca66abf2b710.jpg",
+    "static/media/yahiko.png": "/Memory-Card-Project/static/media/yahiko.6af9d165014de52e8743.png",
+    "static/media/jiraya.jpg": "/Memory-Card-Project/static/media/jiraya.6d5f6b55ac1f8fa73649.jpg",
+    "static/media/itachi.png": "/Memory-Card-Project/static/media/itachi.cbf3db736df0de14bc85.png",
+    "static/media/kakashi.png": "/Memory-Card-Project/static/media/kakashi.8e736057d47a4b3b5add.png",
+    "static/media/naruto.png": "/Memory-Card-Project/static/media/naruto.31eaee786e75c00bd0bf.png",
+    "static/media/minato.jpg": "/Memory-Card-Project/static/media/minato.0afefdefc4acca04d6c2.jpg",
+    "static/media/madara.jpg": "/Memory-Card-Project/static/media/madara.157aa8790a1e2bb0395d.jpg",
+    "index.html": "/Memory-Card-Project/index.html",
+    "main.c7080a2d.css.map": "/Memory-Card-Project/static/css/main.c7080a2d.css.map",
+    "main.1551d965.js.map": "/Memory-Card-Project/static/js/main.1551d965.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7080a2d.css",
+    "static/js/main.1551d965.js"
+  ]
+}
